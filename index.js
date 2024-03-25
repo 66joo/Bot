@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Made by NB"];
+const statusMessages = ["MADE BY NB"];
 
 
 let currentIndex = 0;
