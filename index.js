@@ -14,7 +14,7 @@
  */
 
 
-
+const keepAlive = require('./keep_alive.js'); // Assuming keep_alive.js is in the same directory
 const { Client, GatewayIntentBits, ActivityType, TextChannel } = require('discord.js');
 require('dotenv').config();
 const express = require('express');
