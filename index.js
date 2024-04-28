@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["MADE BY NB","/report to report a user"];
+const statusMessages = ["MADE BY NB","/report to report a user","discord.gg/flw"];
 
 
 let currentIndex = 0;
