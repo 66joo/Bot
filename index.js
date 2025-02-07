@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Made By Jash",".gg/CBMarketplace"];
+const statusMessages = ["Made By Jash"," Watching Bloxy Shop"];
 
 
 let currentIndex = 0;
